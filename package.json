@@ -1,0 +1,9 @@
+{
+  "name": "www.netlify.com",
+  "version": "1.0.0",
+  "description": "philia",
+  "main": "index.js",
+  "repository": "www.phiia.com",
+  "author": "philia",
+  "license": "MIT"
+}
